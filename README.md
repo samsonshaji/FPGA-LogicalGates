@@ -1,1 +1,1 @@
-# ECE124-Lab-1
+Working with FPGA and the project involves logic gates
